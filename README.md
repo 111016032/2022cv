@@ -1,2 +1,2 @@
 # 2022cv
-My first cv homework
+My First CV Homework
